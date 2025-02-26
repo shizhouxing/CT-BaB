@@ -1,0 +1,11 @@
+auto-LiRPA>=0.6
+torch>=2.2.0
+torchvision>=0.18
+numpy>=1.26
+tensorboard>=2.19
+tensorboardX>=2.6
+termcolor>=2.5
+gpustat>=1.1
+control>=0.10
+huggingface_hub>=0.29
+safetensors>=0.5
